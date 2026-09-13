@@ -1,0 +1,47 @@
+skill,job_count,demand_percentage
+machine learning,137,14.42
+python,127,13.37
+data analysis,34,3.58
+sql,27,2.84
+aws,26,2.74
+business intelligence,26,2.74
+azure,21,2.21
+bi,20,2.11
+r,19,2.0
+data analytics,14,1.47
+gcp,13,1.37
+c#,11,1.16
+java,10,1.05
+power bi,10,1.05
+databricks,8,0.84
+c++,8,0.84
+excel,8,0.84
+database,6,0.63
+nlp,6,0.63
+tableau,5,0.53
+salesforce,5,0.53
+oracle,5,0.53
+airflow,5,0.53
+git,5,0.53
+postgresql,4,0.42
+statistics,4,0.42
+etl,4,0.42
+javascript,4,0.42
+sap,4,0.42
+pandas,3,0.32
+looker,3,0.32
+pyspark,3,0.32
+numpy,2,0.21
+data pipeline,2,0.21
+pytorch,2,0.21
+sql server,2,0.21
+snowflake,2,0.21
+spark,2,0.21
+deep learning,2,0.21
+tensorflow,2,0.21
+google cloud,2,0.21
+qlik,1,0.11
+scala,1,0.11
+mysql,1,0.11
+jira,1,0.11
+github,1,0.11

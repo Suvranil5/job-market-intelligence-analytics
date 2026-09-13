@@ -1,0 +1,47 @@
+category,skill,job_count
+Business Intelligence,business intelligence,26
+Business Intelligence,bi,20
+Business Intelligence,power bi,10
+Business Intelligence,tableau,5
+Business Intelligence,looker,3
+Business Intelligence,qlik,1
+Cloud,aws,26
+Cloud,azure,21
+Cloud,gcp,13
+Cloud,databricks,8
+Cloud,google cloud,2
+Cloud,snowflake,2
+Data Analysis,data analysis,34
+Data Analysis,data analytics,14
+Data Analysis,statistics,4
+Data Analysis,pandas,3
+Data Analysis,numpy,2
+Data Engineering,airflow,5
+Data Engineering,etl,4
+Data Engineering,pyspark,3
+Data Engineering,spark,2
+Data Engineering,data pipeline,2
+Databases & SQL,sql,27
+Databases & SQL,database,6
+Databases & SQL,oracle,5
+Databases & SQL,postgresql,4
+Databases & SQL,sql server,2
+Databases & SQL,mysql,1
+Machine Learning,machine learning,137
+Machine Learning,nlp,6
+Machine Learning,tensorflow,2
+Machine Learning,pytorch,2
+Machine Learning,deep learning,2
+Programming,python,127
+Programming,r,19
+Programming,c#,11
+Programming,java,10
+Programming,c++,8
+Programming,javascript,4
+Programming,scala,1
+Tools & Platforms,excel,8
+Tools & Platforms,git,5
+Tools & Platforms,salesforce,5
+Tools & Platforms,sap,4
+Tools & Platforms,github,1
+Tools & Platforms,jira,1
